@@ -12,7 +12,7 @@
     "rimraf": "~2.1.4",
     "levelup": "~0.10.0",
     "leveldown": "~0.6.1",
-    "memdown": "~0.2.0"
+    "memdown": "git://github.com/juliangruber/node-memdown.git#d942973a94f6deb164cfb3cd322230b3fe985078"
   },
   "devDependencies": {
     "tape": "~1.0.2"
