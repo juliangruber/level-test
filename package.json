@@ -12,7 +12,7 @@
     "rimraf": "~2.1.4",
     "levelup": "~0.10.0",
     "leveldown": "~0.6.1",
-    "memdown": "~0.2.0"
+    "memdown": "git://github.com/juliangruber/node-memdown.git#739aa8ca970fc0bf367cbcc80c78314b867b395a"
   },
   "browser": {
     "os": false,
